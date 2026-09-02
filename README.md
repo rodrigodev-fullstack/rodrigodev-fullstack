@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Rodrigo 👋
 
-<!--
-**rodrigodev-fullstack/rodrigodev-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with experience in building real-time web applications and robust database architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer | Curricular Internship @ See Schools
+Tech Stack: PHP (Laravel), React, SQL (MySQL), WebSockets, Laravel Observers
+
+Developed a dedicated ticketing & support system for the See Schools management platform to streamline communication between teachers and administration.
+
+Built a real-time chat module using WebSockets for instant communication between users and support staff.
+
+Implemented Laravel Observers to handle automated notifications, status updates, and event-driven database actions.
+
+Designed responsive frontend components in React integrated with a Laravel RESTful API backend.
+
+Note: Proprietary company code integrated into the See Schools platform.
