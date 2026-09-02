@@ -18,5 +18,5 @@ Full Stack Developer with experience in building real-time web applications and 
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** PHP, JavaScript, Java, SQL
-* **Frameworks & Libraries:** Laravel, React, Node.js
+* **Frameworks & Libraries:** Laravel, React
 * **Databases & Tools:** MySQL, Git, GitHub, WebSockets
